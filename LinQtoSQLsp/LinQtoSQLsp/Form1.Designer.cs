@@ -44,6 +44,7 @@ namespace LinQtoSQLsp
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.GridDatos = new System.Windows.Forms.DataGridView();
+            this.btnBuscar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.GridDatos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -120,6 +121,7 @@ namespace LinQtoSQLsp
             this.btnNuevo.TabIndex = 8;
             this.btnNuevo.Text = "Nuevo";
             this.btnNuevo.UseVisualStyleBackColor = true;
+            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
             // 
             // btnGuardar
             // 
@@ -129,6 +131,7 @@ namespace LinQtoSQLsp
             this.btnGuardar.TabIndex = 9;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // btnActualizar
             // 
@@ -138,6 +141,7 @@ namespace LinQtoSQLsp
             this.btnActualizar.TabIndex = 10;
             this.btnActualizar.Text = "Actualizar";
             this.btnActualizar.UseVisualStyleBackColor = true;
+            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
             // 
             // btnEliminar
             // 
@@ -147,6 +151,7 @@ namespace LinQtoSQLsp
             this.btnEliminar.TabIndex = 11;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // txtBuscar
             // 
@@ -169,14 +174,25 @@ namespace LinQtoSQLsp
             this.GridDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.GridDatos.Location = new System.Drawing.Point(16, 199);
             this.GridDatos.Name = "GridDatos";
-            this.GridDatos.Size = new System.Drawing.Size(394, 150);
+            this.GridDatos.Size = new System.Drawing.Size(481, 150);
             this.GridDatos.TabIndex = 14;
+            // 
+            // btnBuscar
+            // 
+            this.btnBuscar.Location = new System.Drawing.Point(237, 151);
+            this.btnBuscar.Name = "btnBuscar";
+            this.btnBuscar.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscar.TabIndex = 15;
+            this.btnBuscar.Text = "Buscar";
+            this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(425, 364);
+            this.ClientSize = new System.Drawing.Size(523, 364);
+            this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.GridDatos);
             this.Controls.Add(this.txtBuscar);
             this.Controls.Add(this.label5);
@@ -194,6 +210,7 @@ namespace LinQtoSQLsp
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.GridDatos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -217,6 +234,7 @@ namespace LinQtoSQLsp
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.DataGridView GridDatos;
+        private System.Windows.Forms.Button btnBuscar;
     }
 }
 

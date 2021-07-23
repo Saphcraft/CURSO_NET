@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsREPASOLUNES2307", "FormsREPASOLUNES2307\FormsREPASOLUNES2307.csproj", "{179AA961-52E2-401B-A1B2-AB72CE7670ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179AA961-52E2-401B-A1B2-AB72CE7670ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179AA961-52E2-401B-A1B2-AB72CE7670ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179AA961-52E2-401B-A1B2-AB72CE7670ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179AA961-52E2-401B-A1B2-AB72CE7670ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67D0A73-3327-47F0-B13E-2B355F49436A}
+	EndGlobalSection
+EndGlobal

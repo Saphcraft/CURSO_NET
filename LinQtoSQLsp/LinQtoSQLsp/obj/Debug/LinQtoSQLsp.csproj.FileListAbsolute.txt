@@ -1,0 +1,9 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\bin\Debug\LinQtoSQLsp.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\bin\Debug\LinQtoSQLsp.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\bin\Debug\LinQtoSQLsp.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.Form1.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.Properties.Resources.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.csproj.GenerateResource.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\LinQtoSQLsp\LinQtoSQLsp\obj\Debug\LinQtoSQLsp.pdb
