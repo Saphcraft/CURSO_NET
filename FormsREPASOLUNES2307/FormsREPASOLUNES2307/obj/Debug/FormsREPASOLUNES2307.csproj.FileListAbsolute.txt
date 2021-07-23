@@ -1,0 +1,10 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\bin\Debug\FormsREPASOLUNES2307.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\bin\Debug\FormsREPASOLUNES2307.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\bin\Debug\FormsREPASOLUNES2307.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.csproj.AssemblyReference.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.Form1.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.Properties.Resources.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.csproj.GenerateResource.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormsREPASOLUNES2307\FormsREPASOLUNES2307\obj\Debug\FormsREPASOLUNES2307.pdb

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="REPASOLUNES" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ASATA404\SQLEXPRESSSAPH;Initial Catalog=REPASOLUNES;Persist Security Info=True;User ID=sa" SettingsObjectName="FormsREPASOLUNES2307.Properties.Settings" SettingsPropertyName="REPASOLUNESConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.spAddCustomer" Method="spAddCustomer">
+    <Parameter Name="IDCLIENTE" Parameter="iDCLIENTE" Type="System.String" DbType="VarChar(5)" />
+    <Parameter Name="APELLIDOS" Parameter="aPELLIDOS" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="NOMBRES" Parameter="nOMBRES" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.spDeleteCustomer" Method="spDeleteCustomer">
+    <Parameter Name="IDCLIENTE" Parameter="iDCLIENTE" Type="System.String" DbType="VarChar(5)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.spSearchAPELLIDOS" Method="spSearchAPELLIDOS">
+    <Parameter Name="APELLIDOS" Parameter="aPELLIDOS" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="spSearchAPELLIDOSResult">
+      <Column Name="IDCLIENTE" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spSearchIDCLIENTE" Method="spSearchIDCLIENTE">
+    <Parameter Name="IDCLIENTE" Parameter="iDCLIENTE" Type="System.String" DbType="VarChar(5)" />
+    <ElementType Name="spSearchIDCLIENTEResult">
+      <Column Name="IDCLIENTE" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spSearchNOMOMBRES" Method="spSearchNOMOMBRES">
+    <Parameter Name="NOMBRES" Parameter="nOMBRES" Type="System.String" DbType="VarChar(30)" />
+    <ElementType Name="spSearchNOMOMBRESResult">
+      <Column Name="IDCLIENTE" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spUpdateCustomer" Method="spUpdateCustomer">
+    <Parameter Name="IDCLIENTE" Parameter="iDCLIENTE" Type="System.String" DbType="VarChar(5)" />
+    <Parameter Name="APELLIDOS" Parameter="aPELLIDOS" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="NOMBRES" Parameter="nOMBRES" Type="System.String" DbType="VarChar(30)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.spToList" Method="spToList">
+    <ElementType Name="spToListResult">
+      <Column Name="IDCLIENTE" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="APELLIDOS" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="NOMBRES" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>
