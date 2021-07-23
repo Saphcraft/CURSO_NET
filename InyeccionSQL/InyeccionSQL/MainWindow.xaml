@@ -5,24 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:InyeccionSQL"
         mc:Ignorable="d"
-        Title="MainWindow" Height="326.136" Width="1190.909" Foreground="Black" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}" BorderBrush="Black">
+        Title="MainWindow" Height="444.318" Width="1190.909" Foreground="Black" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}" BorderBrush="Black">
     <Grid>
-        <StackPanel HorizontalAlignment="Left" Height="286" Margin="10,10,0,0" VerticalAlignment="Top" Width="198" Background="#FFD6D6D6">
+        <StackPanel HorizontalAlignment="Left" Margin="10,10,0,0" Width="198" Background="#FFD6D6D6" Height="286" VerticalAlignment="Top">
             <Label Content="INSERTAR" BorderBrush="Black" VerticalContentAlignment="Center" ClipToBounds="True" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center"/>
         </StackPanel>
-        <StackPanel HorizontalAlignment="Left" Height="286" Margin="235,10,0,0" VerticalAlignment="Top" Width="198" Background="#FFD6D6D6"
+        <StackPanel HorizontalAlignment="Left" Margin="235,10,0,0" Width="198" Background="#FFD6D6D6" Height="286" VerticalAlignment="Top"
                     >
             <Label  Content="ELIMINAR" BorderBrush="Black" VerticalContentAlignment="Center" ClipToBounds="True" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center"/>
         </StackPanel>
-        <StackPanel HorizontalAlignment="Left" Height="286" Margin="462,10,0,0" VerticalAlignment="Top" Width="198" Background="#FFD6D6D6">
+        <StackPanel HorizontalAlignment="Left" Margin="462,10,0,0" Width="198" Background="#FFD6D6D6" Height="286" VerticalAlignment="Top">
             <Label  Content="MODIFICAR" BorderBrush="Black" VerticalContentAlignment="Center" ClipToBounds="True" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center"/>
         </StackPanel>
-        <DataGrid HorizontalAlignment="Left" Height="286" Margin="681,10,0,0" VerticalAlignment="Top" Width="493" AutomationProperties.Name="GridDatos"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" AutomationProperties.Name="txtIDinsertar"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" AutomationProperties.Name="txtNombreInsertar"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" AutomationProperties.Name="txtEdadInsertar"/>
-        <Button Content="INSERTAR" HorizontalAlignment="Left" Margin="35,200,0,0" VerticalAlignment="Top" Width="154" AutomationProperties.Name="btnInsertar"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="258,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" AutomationProperties.Name="txtIDEliminar"/>
+        <DataGrid HorizontalAlignment="Left" Margin="681,10,0,18" Width="493" AutomationProperties.Name="GridDatos"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" Name="txtIDinsertar"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" Name="txtNombreInsertar"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="35,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" Name="txtEdadInsertar"/>
+        <Button Content="INSERTAR" HorizontalAlignment="Left" Margin="35,200,0,0" VerticalAlignment="Top" Width="154" AutomationProperties.Name="btnInsertar" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="258,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154" Name="txtIDEliminar"/>
         <Label Content="EDAD" HorizontalAlignment="Left" Margin="258,95,0,0" VerticalAlignment="Top" Width="154" Background="#FF3649C1" Foreground="White" BorderBrush="Black" HorizontalContentAlignment="Center"/>
         <Label Content="NOMBRE" HorizontalAlignment="Left" Margin="258,140,0,0" VerticalAlignment="Top" Width="154" Background="#FF3649C1" Foreground="White" BorderBrush="Black" HorizontalContentAlignment="Center"/>
         <Button Content="CONSULTAR" HorizontalAlignment="Left" Margin="258,186,0,0" VerticalAlignment="Top" Width="154" AutomationProperties.Name="btnConsultar"/>
