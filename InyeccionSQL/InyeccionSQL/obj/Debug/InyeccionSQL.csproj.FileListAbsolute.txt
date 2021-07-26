@@ -1,4 +1,3 @@
-C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\InyeccionSQL\InyeccionSQL\obj\Debug\InyeccionSQL.csproj.AssemblyReference.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\InyeccionSQL\InyeccionSQL\obj\Debug\MainWindow.g.cs
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\InyeccionSQL\InyeccionSQL\obj\Debug\App.g.cs
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\InyeccionSQL\InyeccionSQL\obj\Debug\InyeccionSQL_MarkupCompile.cache
