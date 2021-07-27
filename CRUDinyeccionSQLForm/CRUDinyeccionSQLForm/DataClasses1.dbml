@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="INYECCIONSQL" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ASATA404\SQLEXPRESSSAPH;Initial Catalog=INYECCIONSQL;Persist Security Info=True;User ID=sa" SettingsObjectName="CRUDinyeccionSQLForm.Properties.Settings" SettingsPropertyName="INYECCIONSQLConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.spBuscarAlumnosCODIGO" Method="spBuscarAlumnosCODIGO">
+    <Parameter Name="CODIGO" Parameter="cODIGO" Type="System.Int32" DbType="Int" />
+    <ElementType Name="spBuscarAlumnosCODIGOResult">
+      <Column Name="CODIGO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NOMBRE" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DNI" Type="System.String" DbType="NVarChar(9) NOT NULL" CanBeNull="false" />
+      <Column Name="TURNO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="SEXO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="REPETIDOR" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="MODULO" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ESPECIALIDAD" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spBuscarAlumnosDNI" Method="spBuscarAlumnosDNI">
+    <Parameter Name="DNI" Parameter="dNI" Type="System.String" DbType="NVarChar(9)" />
+    <ElementType Name="spBuscarAlumnosDNIResult">
+      <Column Name="CODIGO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NOMBRE" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DNI" Type="System.String" DbType="NVarChar(9) NOT NULL" CanBeNull="false" />
+      <Column Name="TURNO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="SEXO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="REPETIDOR" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="MODULO" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ESPECIALIDAD" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.spListarAlumnos" Method="spListarAlumnos">
+    <ElementType Name="spListarAlumnosResult">
+      <Column Name="CODIGO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NOMBRE" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DNI" Type="System.String" DbType="NVarChar(9) NOT NULL" CanBeNull="false" />
+      <Column Name="TURNO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="SEXO" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="REPETIDOR" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="MODULO" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ESPECIALIDAD" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

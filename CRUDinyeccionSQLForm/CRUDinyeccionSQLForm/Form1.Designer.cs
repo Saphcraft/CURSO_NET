@@ -72,6 +72,7 @@ namespace CRUDinyeccionSQLForm
             // 
             // txtCodigo
             // 
+            this.txtCodigo.Enabled = false;
             this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigo.Location = new System.Drawing.Point(102, 10);
             this.txtCodigo.Name = "txtCodigo";
@@ -283,6 +284,7 @@ namespace CRUDinyeccionSQLForm
             this.btnBuscaCodigo.Size = new System.Drawing.Size(46, 26);
             this.btnBuscaCodigo.TabIndex = 23;
             this.btnBuscaCodigo.UseVisualStyleBackColor = true;
+            this.btnBuscaCodigo.Click += new System.EventHandler(this.btnBuscaCodigo_Click);
             // 
             // btnBuscaDNI
             // 
@@ -291,6 +293,7 @@ namespace CRUDinyeccionSQLForm
             this.btnBuscaDNI.Size = new System.Drawing.Size(46, 26);
             this.btnBuscaDNI.TabIndex = 24;
             this.btnBuscaDNI.UseVisualStyleBackColor = true;
+            this.btnBuscaDNI.Click += new System.EventHandler(this.btnBuscaDNI_Click);
             // 
             // btnAlta
             // 
@@ -300,6 +303,7 @@ namespace CRUDinyeccionSQLForm
             this.btnAlta.TabIndex = 19;
             this.btnAlta.Text = "ALTA";
             this.btnAlta.UseVisualStyleBackColor = true;
+            this.btnAlta.Click += new System.EventHandler(this.btnAlta_Click);
             // 
             // btnBaja
             // 
@@ -309,6 +313,7 @@ namespace CRUDinyeccionSQLForm
             this.btnBaja.TabIndex = 20;
             this.btnBaja.Text = "BAJA";
             this.btnBaja.UseVisualStyleBackColor = true;
+            this.btnBaja.Click += new System.EventHandler(this.btnBaja_Click);
             // 
             // btnModificacion
             // 
@@ -318,6 +323,7 @@ namespace CRUDinyeccionSQLForm
             this.btnModificacion.TabIndex = 21;
             this.btnModificacion.Text = "MODIFICACION";
             this.btnModificacion.UseVisualStyleBackColor = true;
+            this.btnModificacion.Click += new System.EventHandler(this.btnModificacion_Click);
             // 
             // dgvGridDatos
             // 
@@ -356,6 +362,7 @@ namespace CRUDinyeccionSQLForm
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.Búsqueda.ResumeLayout(false);
             this.Búsqueda.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvGridDatos)).EndInit();

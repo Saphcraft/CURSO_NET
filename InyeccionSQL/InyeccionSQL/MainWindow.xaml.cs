@@ -50,7 +50,7 @@ namespace InyeccionSQL
             }
             conexion.Close();
 
-            //modificar datos
+            //insertar datos
             conexion.Open();
             string cadena = "INSERT INTO Personas (id,nombre,edad) " + "VALUES(" + valor.ToString() + ",'" + nombre + "'," + edad + ")";
             
