@@ -1,0 +1,10 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\bin\Debug\CRUDinyeccionSQLForm.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\bin\Debug\CRUDinyeccionSQLForm.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\bin\Debug\CRUDinyeccionSQLForm.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.csproj.AssemblyReference.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.Form1.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.Properties.Resources.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.csproj.GenerateResource.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\CRUDinyeccionSQLForm\CRUDinyeccionSQLForm\obj\Debug\CRUDinyeccionSQLForm.pdb

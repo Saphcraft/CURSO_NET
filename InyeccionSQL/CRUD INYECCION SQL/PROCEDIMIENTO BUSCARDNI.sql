@@ -1,0 +1,6 @@
+--Crear procedimiento BUSCARALUMNOS por DNI
+CREATE PROCEDURE spBuscarAlumnosDNI
+@DNI NVARCHAR(9)
+AS
+SELECT * FROM ALUMNOS 
+WHERE DNI LIKE '%' + @DNI + '%';
