@@ -1,7 +1,6 @@
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\bin\Debug\FormularioLinQLambda.exe.config
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\bin\Debug\FormularioLinQLambda.exe
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\bin\Debug\FormularioLinQLambda.pdb
-C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\obj\Debug\FormularioLinQLambda.csproj.AssemblyReference.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\obj\Debug\FormularioLinQLambda.Form1.resources
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\obj\Debug\FormularioLinQLambda.Properties.Resources.resources
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\FormularioLinQLambda\FormularioLinQLambda\obj\Debug\FormularioLinQLambda.csproj.GenerateResource.cache
