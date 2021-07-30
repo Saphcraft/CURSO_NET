@@ -49,7 +49,6 @@ namespace FormularioLinQLambda
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(comboBox1.SelectedItem.ToString());
             //esto es una sentencia lambda para sacar el nombre que seleccionamos en el combo
             Products myProducto = basededatos.Products.Single(p => p.ProductName == comboBox1.SelectedItem.ToString());
             myProducto.ProductName = comboBox1.SelectedItem.ToString();
