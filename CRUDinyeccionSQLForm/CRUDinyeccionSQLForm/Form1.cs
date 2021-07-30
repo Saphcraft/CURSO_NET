@@ -144,7 +144,7 @@ namespace CRUDinyeccionSQLForm
             conexion.Open();            
             try
             {
-                string consulta = "SELECT * FROM ALUMNOS WHERE DNI='" + DNI + "'";
+                string consulta = "SELECT DNI FROM ALUMNOS WHERE DNI='" + DNI + "'";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 int cant;
                 cant = comando.ExecuteNonQuery();

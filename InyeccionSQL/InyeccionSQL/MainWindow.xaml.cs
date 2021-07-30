@@ -177,8 +177,6 @@ namespace InyeccionSQL
             }
             btnModificar.IsEnabled = false;
             conexion.Close();
-
-
         }
     }
 }
