@@ -24,20 +24,34 @@ namespace WindowsFormsLINQ
         //Metodo para cargar el grid de datos
         void cargarGrid()
         {
-            var cargarGrid = from empleados in FormsLINQ.empleados select empleados;
-            GridDatos.DataSource = cargarGrid;
-            var Buscar = from empleados in FormsLINQ.empleados select empleados;
-            GridDatos.DataSource = Buscar;
-            int numero = Buscar.Count();
-            lbRegistros.Text = "Se han encontrado " + numero + " registros";
+            try
+            {
+                var cargarGrid = from empleados in FormsLINQ.empleados select empleados;
+                GridDatos.DataSource = cargarGrid;
+                var Buscar = from empleados in FormsLINQ.empleados select empleados;
+                GridDatos.DataSource = Buscar;
+                int numero = Buscar.Count();
+                lbRegistros.Text = "Se han encontrado " + numero + " registros";
+            }
+            catch
+            {
+                MessageBox.Show("No se han podido cargar los registro");
+            }
         }
         //acciones del boton buscar
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-           var Buscar = from empleados in FormsLINQ.empleados where empleados.Nombre == txtBuscar.Text select empleados;
-            GridDatos.DataSource = Buscar;
-            int numero = Buscar.Count();
-            lbRegistros.Text = "Se han encontrado " + numero + " registros";
+            try
+            {
+                var Buscar = from empleados in FormsLINQ.empleados where empleados.Nombre == txtBuscar.Text select empleados;
+                GridDatos.DataSource = Buscar;
+                int numero = Buscar.Count();
+                lbRegistros.Text = "Se han encontrado " + numero + " registros";
+            }
+            catch
+            {
+                MessageBox.Show("No se ha podido hacer la busqueda, revise los datos introducidos");
+            }
         }
         //acciones del boton de alta
         private void btnAlta_Click(object sender, EventArgs e)
