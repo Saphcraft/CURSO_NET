@@ -28,9 +28,8 @@ namespace WindowsFormsLINQ
             {
                 var cargarGrid = from empleados in FormsLINQ.empleados select empleados;
                 GridDatos.DataSource = cargarGrid;
-                var Buscar = from empleados in FormsLINQ.empleados select empleados;
-                GridDatos.DataSource = Buscar;
-                int numero = Buscar.Count();
+                var contar = from empleados in FormsLINQ.empleados select empleados;
+                int numero = contar.Count();
                 lbRegistros.Text = "Se han encontrado " + numero + " registros";
             }
             catch
@@ -83,7 +82,7 @@ namespace WindowsFormsLINQ
                 FormsLINQ.empleados.DeleteOnSubmit(bajaempleado);
                 FormsLINQ.SubmitChanges();
                 cargarGrid();
-                chkMarried.Checked = false;
+                chkMarried.Checked = false;                
             }
             catch
             {
