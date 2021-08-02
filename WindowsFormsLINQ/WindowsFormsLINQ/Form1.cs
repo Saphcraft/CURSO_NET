@@ -34,7 +34,7 @@ namespace WindowsFormsLINQ
             }
             catch
             {
-                MessageBox.Show("No se han podido cargar los registro");
+                MessageBox.Show("No se han podido cargar los registros");
             }
         }
         //acciones del boton buscar
