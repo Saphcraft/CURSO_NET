@@ -190,6 +190,7 @@ namespace WindowsFormsLINQ
             this.GridDatos.Name = "GridDatos";
             this.GridDatos.Size = new System.Drawing.Size(645, 290);
             this.GridDatos.TabIndex = 14;
+            this.GridDatos.SelectionChanged += new System.EventHandler(this.GridDatos_SelectionChanged);
             // 
             // lbRegistros
             // 

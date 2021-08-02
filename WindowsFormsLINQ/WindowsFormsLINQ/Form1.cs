@@ -109,5 +109,29 @@ namespace WindowsFormsLINQ
                 MessageBox.Show("No se ha podido dar de alta, revise los datos introducidos");
             }
         }
+
+        private void GridDatos_SelectionChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                var fila = GridDatos.CurrentRow.Index;
+                txtID.Text = GridDatos.Rows[fila].Cells[0].Value.ToString();
+                txtName.Text = GridDatos.Rows[fila].Cells[1].Value.ToString();
+                txtSurname.Text = GridDatos.Rows[fila].Cells[2].Value.ToString();
+                txtAge.Text = GridDatos.Rows[fila].Cells[3].Value.ToString();
+                if (GridDatos.Rows[fila].Cells[4].Value.ToString() == "True")
+                {
+                    chkMarried.Checked = true;
+                }
+                else
+                {
+                    chkMarried.Checked = false;
+                }
+            }
+            catch
+            {
+
+            }
+        }
     }
 }
