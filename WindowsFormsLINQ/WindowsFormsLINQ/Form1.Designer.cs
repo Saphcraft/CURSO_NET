@@ -44,7 +44,7 @@ namespace WindowsFormsLINQ
             this.btnBaja = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.GridDatos = new System.Windows.Forms.DataGridView();
-            this.label5 = new System.Windows.Forms.Label();
+            this.lbRegistros = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.GridDatos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -65,6 +65,7 @@ namespace WindowsFormsLINQ
             this.btnBuscar.TabIndex = 1;
             this.btnBuscar.Text = "BUSCAR";
             this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // label1
             // 
@@ -158,6 +159,7 @@ namespace WindowsFormsLINQ
             this.btnAlta.TabIndex = 11;
             this.btnAlta.Text = "Alta";
             this.btnAlta.UseVisualStyleBackColor = true;
+            this.btnAlta.Click += new System.EventHandler(this.btnAlta_Click);
             // 
             // btnBaja
             // 
@@ -168,6 +170,7 @@ namespace WindowsFormsLINQ
             this.btnBaja.TabIndex = 12;
             this.btnBaja.Text = "Baja";
             this.btnBaja.UseVisualStyleBackColor = true;
+            this.btnBaja.Click += new System.EventHandler(this.btnBaja_Click);
             // 
             // btnModificar
             // 
@@ -178,6 +181,7 @@ namespace WindowsFormsLINQ
             this.btnModificar.TabIndex = 13;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // GridDatos
             // 
@@ -187,22 +191,22 @@ namespace WindowsFormsLINQ
             this.GridDatos.Size = new System.Drawing.Size(645, 290);
             this.GridDatos.TabIndex = 14;
             // 
-            // label5
+            // lbRegistros
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(17, 359);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(51, 20);
-            this.label5.TabIndex = 15;
-            this.label5.Text = "label5";
+            this.lbRegistros.AutoSize = true;
+            this.lbRegistros.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbRegistros.Location = new System.Drawing.Point(17, 359);
+            this.lbRegistros.Name = "lbRegistros";
+            this.lbRegistros.Size = new System.Drawing.Size(258, 20);
+            this.lbRegistros.TabIndex = 15;
+            this.lbRegistros.Text = "Hay 0 registros en la base de datos";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(912, 416);
-            this.Controls.Add(this.label5);
+            this.Controls.Add(this.lbRegistros);
             this.Controls.Add(this.GridDatos);
             this.Controls.Add(this.btnModificar);
             this.Controls.Add(this.btnBaja);
@@ -220,6 +224,7 @@ namespace WindowsFormsLINQ
             this.Controls.Add(this.txtBuscar);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.GridDatos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -243,7 +248,7 @@ namespace WindowsFormsLINQ
         private System.Windows.Forms.Button btnBaja;
         private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.DataGridView GridDatos;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label lbRegistros;
     }
 }
 

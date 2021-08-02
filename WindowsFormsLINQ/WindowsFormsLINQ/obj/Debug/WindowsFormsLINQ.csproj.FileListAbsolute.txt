@@ -1,0 +1,9 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\bin\Debug\WindowsFormsLINQ.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.Form1.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.Properties.Resources.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.GenerateResource.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.pdb

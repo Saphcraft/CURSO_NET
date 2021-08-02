@@ -45,6 +45,7 @@ namespace FormularioLinQLambda
             basededatos.SubmitChanges();
             cargarGrid();
             cargarCombo();
+            
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
