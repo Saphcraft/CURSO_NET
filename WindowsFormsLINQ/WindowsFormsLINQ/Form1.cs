@@ -109,7 +109,7 @@ namespace WindowsFormsLINQ
                 MessageBox.Show("No se ha podido dar de alta, revise los datos introducidos");
             }
         }
-
+        //volcar datos desde el grid de datos
         private void GridDatos_SelectionChanged(object sender, EventArgs e)
         {
             try
@@ -132,6 +132,15 @@ namespace WindowsFormsLINQ
             {
                 MessageBox.Show("No se ha podido dar de alta, revise los datos introducidos");
             }
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtID.Text = "";
+            txtName.Text = "";
+            txtSurname.Text = "";
+            txtAge.Text = "";
+            chkMarried.Checked = false;
         }
     }
 }
