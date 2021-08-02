@@ -7,3 +7,4 @@ C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLIN
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.CoreCompileInputs.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.exe
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsLINQ\WindowsFormsLINQ\obj\Debug\WindowsFormsLINQ.csproj.AssemblyReference.cache
