@@ -130,7 +130,7 @@ namespace WindowsFormsLINQ
             }
             catch
             {
-
+                MessageBox.Show("No se ha podido dar de alta, revise los datos introducidos");
             }
         }
     }
