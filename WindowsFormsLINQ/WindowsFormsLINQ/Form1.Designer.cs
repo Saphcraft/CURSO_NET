@@ -186,6 +186,8 @@ namespace WindowsFormsLINQ
             // 
             // GridDatos
             // 
+            this.GridDatos.AllowUserToAddRows = false;
+            this.GridDatos.AllowUserToOrderColumns = true;
             this.GridDatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.GridDatos.Location = new System.Drawing.Point(243, 54);
             this.GridDatos.Name = "GridDatos";

@@ -28,8 +28,8 @@ namespace WindowsFormsLINQ
             {
                 var cargarGrid = from empleados in FormsLINQ.empleados select empleados;
                 GridDatos.DataSource = cargarGrid;
-                var contar = from empleados in FormsLINQ.empleados select empleados;
-                int numero = contar.Count();
+               
+                int numero = cargarGrid.Count();
                 lbRegistros.Text = "Se han encontrado " + numero + " registros";
             }
             catch
