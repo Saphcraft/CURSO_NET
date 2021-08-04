@@ -1,0 +1,10 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\bin\Debug\WindowsFormsHUCALINQ.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\bin\Debug\WindowsFormsHUCALINQ.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\bin\Debug\WindowsFormsHUCALINQ.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.Form1.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.Properties.Resources.resources
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.csproj.GenerateResource.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\WindowsFormsHUCALINQ\WindowsFormsHUCALINQ\obj\Debug\WindowsFormsHUCALINQ.csproj.AssemblyReference.cache

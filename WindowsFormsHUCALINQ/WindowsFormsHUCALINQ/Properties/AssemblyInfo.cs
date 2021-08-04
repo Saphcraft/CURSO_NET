@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("WindowsFormsHUCA")]
+[assembly: AssemblyTitle("WindowsFormsHUCALINQ")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard Company")]
-[assembly: AssemblyProduct("WindowsFormsHUCA")]
+[assembly: AssemblyProduct("WindowsFormsHUCALINQ")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("055cda3c-c414-4131-8996-86b4678b971d")]
+[assembly: Guid("c2858181-de2a-4fa3-ae3c-55d7bca7e69e")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
