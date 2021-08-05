@@ -1,0 +1,7 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\obj\Debug\consolaAppPRODUCTOS.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\bin\Debug\consolaAppPRODUCTOS.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\bin\Debug\consolaAppPRODUCTOS.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\bin\Debug\consolaAppPRODUCTOS.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\obj\Debug\consolaAppPRODUCTOS.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\obj\Debug\consolaAppPRODUCTOS.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\consolaAppPRODUCTOS\consolaAppPRODUCTOS\obj\Debug\consolaAppPRODUCTOS.csproj.AssemblyReference.cache

@@ -9,8 +9,8 @@ namespace consolaAppPRODUCTOS
     class Producto
     {
         //atributos
-        private string nombre, categoria;
-        private double precio;
+        protected string nombre, categoria;
+        protected double precio;
         //propiedades
         public string PNombre
         {
@@ -43,9 +43,6 @@ namespace consolaAppPRODUCTOS
             this.precio = c_precio;
         }
         //metodos
-        public void pedido()
-        {
-
-        }
+ 
     }
 }
