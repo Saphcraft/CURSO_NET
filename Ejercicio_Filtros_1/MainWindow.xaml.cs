@@ -30,7 +30,18 @@ namespace Ejercicio_Filtros
             /// </summary>
             InitializeComponent();
             cargarGrid();
-
+            resetear();
+        }
+        void resetear()
+        {
+            DatePicker1.SelectedDate = DateTime.Now;
+            DatePicker2.SelectedDate = DateTime.Now;
+            DatePicker3.SelectedDate = DateTime.Now;
+            DatePicker4.SelectedDate = DateTime.Now;
+            ComboBox1.SelectedIndex = -1;
+            TextBox1.Text = "";
+            TextBox2.Text = "";
+            cargarGrid();
         }
 
         void cargarGrid()
@@ -72,9 +83,24 @@ namespace Ejercicio_Filtros
         void cargarGridFecha(DateTime desde, DateTime hasta)
         {
             string curso = ComboBox1.Text;
-            var listagrid = from f in filtros.datosJueves where f.Curso == curso && f.Fecha_inscripcion.Value >= desde && f.Fecha_inscripcion.Value <= hasta select f;
+            var listagrid = from f in filtros.datosJueves where f.Fecha_inscripcion.Value >= desde && f.Fecha_inscripcion.Value <= hasta select f;
             DGV1.ItemsSource = listagrid;
         }
+        //metodo con linq para filtrar por fecha instructores
+        void cargarGridFechaInstructores(DateTime desde, DateTime hasta)
+        {
+            string curso = ComboBox1.Text;
+            var listagrid = from f in filtros.datosJueves where f.Fecha_contratacion.Value >= desde && f.Fecha_contratacion.Value <= hasta select f;
+            DGV1.ItemsSource = listagrid;
+        }
+        //metodo con linq para filtrar por fecha inscripcion y de contratacion
+        void cargarGridCuatroFechas(DateTime desdeI, DateTime hastaI, DateTime desdeC, DateTime hastaC)
+        {
+            string curso = ComboBox1.Text;
+            var listagrid = from f in filtros.datosJueves where (f.Fecha_inscripcion.Value >= desdeI && f.Fecha_inscripcion.Value <= hastaI && f.Fecha_contratacion.Value >= desdeC && f.Fecha_contratacion.Value <= hastaC) select f;
+            DGV1.ItemsSource = listagrid;
+        }
+
         /// <summary>
         /// Habilitar y deshabilit Checkbox de las fechas
         /// </summary>
@@ -154,13 +180,33 @@ namespace Ejercicio_Filtros
                 cargarGridCurso();
             }
         }
-
+        
         private void fechas_Click(object sender, RoutedEventArgs e)
         {
-            if(CheckBox1.IsChecked == true && CheckBox2.IsChecked == true)
+            //metodo para cargar filtro por fecha de Inscripcion
+            if (CheckBox1.IsChecked == true && CheckBox2.IsChecked == true)
             {
                 cargarGridFecha(DatePicker1.DisplayDate, DatePicker2.DisplayDate);
             }
+            //metodo para cargar filtro por fecha de Contratacion
+            else if (CheckBox3.IsChecked == true && CheckBox4.IsChecked == true && CheckBox5.IsChecked == true)
+            {
+                cargarGridFechaInstructores(DatePicker3.DisplayDate, DatePicker4.DisplayDate);
+            }
+            //metodo para cargar filtro por fecha de Inscripcion y Contratación
+            else if (CheckBox1.IsChecked == true && CheckBox2.IsChecked == true && CheckBox3.IsChecked == true && CheckBox4.IsChecked == true && CheckBox5.IsChecked == true)
+            {
+                cargarGridCuatroFechas(DatePicker1.DisplayDate, DatePicker2.DisplayDate, DatePicker3.DisplayDate, DatePicker4.DisplayDate);
+            } 
+            else
+            {
+                cargarGridCurso();
+            }
+        }
+        //boton de reset
+        private void RESET_Click(object sender, RoutedEventArgs e)
+        {
+            resetear();
         }
     }
 }
