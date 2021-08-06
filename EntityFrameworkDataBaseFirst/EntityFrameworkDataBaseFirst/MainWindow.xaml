@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <DockPanel HorizontalAlignment="Left" Height="400" LastChildFill="False" Margin="10,10,0,0" VerticalAlignment="Top" Width="772">
+            <DataGrid Width="772" Name="MyDG" x:FieldModifier="public" ColumnWidth="*" Margin="0,0,0,45" >
+               
+            </DataGrid>
+            <Grid>
+                <Button Content="Añadir" Width="76" Margin="-613,366,537,6" Click="Button_Click"/>
+                <Button Content="Modificar" Width="76" Margin="-417,366,341,6" Click="Button_Click_1"/>
+                <Button Content="Eliminar" Width="76" Margin="-202,366,126,6" Click="Button_Click_2"/>
+            </Grid>
+        </DockPanel>
+
+
     </Grid>
 </Window>
