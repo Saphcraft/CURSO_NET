@@ -1,0 +1,6 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\obj\Debug\RepasoAppConsolaObjetosAgosto.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\bin\Debug\RepasoAppConsolaObjetosAgosto.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\bin\Debug\RepasoAppConsolaObjetosAgosto.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\bin\Debug\RepasoAppConsolaObjetosAgosto.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\obj\Debug\RepasoAppConsolaObjetosAgosto.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoAppConsolaObjetosAgosto\RepasoAppConsolaObjetosAgosto\obj\Debug\RepasoAppConsolaObjetosAgosto.pdb
