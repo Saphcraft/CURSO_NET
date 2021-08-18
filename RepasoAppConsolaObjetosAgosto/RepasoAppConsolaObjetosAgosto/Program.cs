@@ -20,7 +20,7 @@ namespace RepasoAppConsolaObjetosAgosto
                 Console.WriteLine("Por favor, introduce DNI");
                 string DNI = Console.ReadLine();
                 //Preguntar si es empleado o cliente
-                Console.WriteLine("\n1. Para empleado\n 2. Para cliente\n 3. Cancelar");
+                Console.WriteLine("Elige si eres: \n1. Empleado\n2. Cliente\n3. Cancelar");
                 string respuesta = Console.ReadLine();
                 switch (respuesta)
                 {
@@ -41,7 +41,11 @@ namespace RepasoAppConsolaObjetosAgosto
                         MyCliente.PDocumento = DNI;
                         MyCliente.generarCodigo();
                         MyCliente.mostrar();
-                        break;  
+                        break;
+                    //SALIR
+                    case "3":
+                        Environment.Exit(0);
+                        break;
                 }
                 Console.ReadLine();
             }
