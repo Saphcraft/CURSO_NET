@@ -19,17 +19,42 @@ namespace RepasoAppConsolaObjetosAgosto
             strTipoContrato = xtipoContrato;
             dblSueldo = xsueldo;
         }
+        
+        //Propiedades
+        public string PTipoContrato
+        {
+            get { return strTipoContrato; }
+            set { strTipoContrato = value; }
+        }
+        public double PSueldo
+        {
+            get { return dblSueldo; }
+            set { dblSueldo = value; }
+        }
         //Metodo
         public void calcularSueldo()
         {
-            if ( strTipoContrato == "F")
+            Console.WriteLine("Por favor, Tipo de contrato [F/T]");
+            string tipo = Console.ReadLine();
+            strTipoContrato = tipo;
+            Console.WriteLine("Por favor, introduce sueldo");
+            double sueldo = double.Parse(Console.ReadLine());
+            if (tipo == "F" || tipo == "f")
             {
-                dblSueldo = dblSueldo + 300;
+                this.dblSueldo = sueldo + 300;
             }
+            else if (tipo == "T" || tipo == "t")
+            {
+                this.dblSueldo = sueldo + 250;
+            }  
             else
             {
-                dblSueldo = dblSueldo + 250;
+                Console.WriteLine("Por favor introduzca 'F' o 'T'");
             }
+        }
+        public void mostrar()
+        {
+            Console.WriteLine(strNombre + ", " + strApellidos + ", " + strDocumento + ", " + strTipoContrato + ", " + dblSueldo);
         }
     }
 }

@@ -19,13 +19,30 @@ namespace RepasoAppConsolaObjetosAgosto
             strCategoria = xcategoria;
             strCodigo = xcodigo;
         }
+
+        //Propiedades
+        public string PCategoria
+        {
+            get { return strCategoria; }
+            set { strCategoria = value; }
+        }
+        public string PCodigo
+        {
+            get { return strCodigo; }
+            set { strCodigo = value; }
+        }
         //Metodo
         public void generarCodigo()
         {
-            string letrasNombre = strNombre.Substring(0, 2);
-            string numerosDNI = strDocumento.Substring(0, 1);
-            string codigo = "C" + letrasNombre + numerosDNI;
+            Console.WriteLine("Por favor, Introduce la categoria del cliente");
+            this.PCategoria = Console.ReadLine();
+            string letrasNombre = this.strNombre.Substring(0, 3);
+            string numerosDNI = this.strDocumento.Substring(0, 2);
+            this.strCodigo = "C" + letrasNombre + numerosDNI;
         }
-       
+        public void mostrar()
+        {
+            Console.WriteLine(strNombre + ", " + strApellidos + ", " + strDocumento + ", " + strCategoria + ", " + strCodigo);
+        }
     }
 }

@@ -10,30 +10,45 @@ namespace RepasoAppConsolaObjetosAgosto
     {
         static void Main(string[] args)
         {
-           
-            Cliente MyCliente = new Cliente();
-            //Preguntar si es empleado o cliente
-            Console.WriteLine("¿Desea ingresar EMPLEADO o CLIENTE? [E/C]");
-            string respuesta = Console.ReadLine();
-            if ( respuesta == "E" || respuesta =="e")
-            {
-                Empleado MyEmpleado = new Empleado();
-                Console.WriteLine("Escriba nombre: ");
-
-                //TO DO: HACER LAS PROPIEDADES DE ACCESO EN PERSONA, CLIENTE Y EMPLEADO PARA PODER ACCEDER A ELLAS
-                MyEmpleado.
-                  
+            try
+            { 
+                //Pedir nombre, apellidos y dni que son comunes a empleado y cliente
+                Console.WriteLine("Por favor, introduce nombre");
+                string name = Console.ReadLine();
+                Console.WriteLine("Por favor, introduce Apellidos");
+                string surname = Console.ReadLine();
+                Console.WriteLine("Por favor, introduce DNI");
+                string DNI = Console.ReadLine();
+                //Preguntar si es empleado o cliente
+                Console.WriteLine("\n1. Para empleado\n 2. Para cliente\n 3. Cancelar");
+                string respuesta = Console.ReadLine();
+                switch (respuesta)
+                {
+                    //EMPLEADO
+                    case "1":   
+                        Empleado MyEmpleado = new Empleado();
+                        MyEmpleado.PNombre = name;
+                        MyEmpleado.PApellidos = surname;
+                        MyEmpleado.PDocumento = DNI;
+                        MyEmpleado.calcularSueldo();
+                        MyEmpleado.mostrar();
+                        break;
+                    //CLIENTE
+                    case "2":
+                        Cliente MyCliente = new Cliente();
+                        MyCliente.PNombre = name;
+                        MyCliente.PApellidos = surname;
+                        MyCliente.PDocumento = DNI;
+                        MyCliente.generarCodigo();
+                        MyCliente.mostrar();
+                        break;  
+                }
+                Console.ReadLine();
             }
-            else
+            catch
             {
-                Console.WriteLine("Escriba 'E' para empleado, ó, 'C' para cliente");
-            }
-
-
-
-
-
-            
+                Console.WriteLine("Ha ocurrido algun error, reinicie el proceso");
+            } 
         }
     }
 }

@@ -21,5 +21,21 @@ namespace RepasoAppConsolaObjetosAgosto
             strApellidos = xapellidos;
             strDocumento = xdocumento;
         }
+        //Propiedades
+        public string PNombre
+        {
+            get { return strNombre; }
+            set { strNombre = value; }
+        }
+        public string PApellidos
+        {
+            get { return strApellidos; }
+            set { strApellidos = value; }
+        }
+        public string PDocumento
+        {
+            get { return strDocumento; }
+            set { strDocumento = value; }
+        }
     }
 }
