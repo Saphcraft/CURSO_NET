@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="52ebccf3bd7f41e3887c48e779388d93" Name="Diagram1" ZoomLevel="86" >
+        <EntityTypeShape EntityType="Model1.NIVEL_RIESGO" Width="2.125" PointX="0.5" PointY="6.25" />
+        <EntityTypeShape EntityType="Model1.PUESTO" Width="2.125" PointX="0.5" PointY="3" />
+        <AssociationConnector Association="Model1.NIVEL_RIESGOPUESTO" />
+        <EntityTypeShape EntityType="Model1.REGISTRO_TRANSACCION_DEDUCCION" Width="4" PointX="3.75" PointY="0.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
