@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Tarde\Source\Repos\Saphcraft\CURSO_NET\EntityFrameworkDataBaseFirst\EntityFrameworkDataBaseFirst\obj\Debug\
+C:\Users\Tarde\Source\Repos\Saphcraft\CURSO_NET\EntityFrameworkDataBaseFirst\EntityFrameworkDataBaseFirst\obj\Release\
 EntityFrameworkDataBaseFirst
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Tarde\Source\Repos\Saphcraft\CURSO_NET\EntityFrameworkDataBaseFirst\EntityFrameworkDataBaseFirst\App.xaml
 3477587308
 2-289797928
