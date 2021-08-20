@@ -71,7 +71,6 @@ C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\Modelfi
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\bin\es\System.Web.Webpages.Razor.resources.dll
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\bin\es\System.Web.Helpers.resources.dll
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\obj\Debug\ModelfirstMultitabla0820.csproj.AssemblyReference.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\obj\Debug\ModelfirstMultitabla0820.csproj.CoreCompileInputs.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\obj\Debug\ModelfirstMultitabla0820.csproj.CopyComplete
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ModelfirstMultitabla0820\ModelfirstMultitabla0820\obj\Debug\ModelfirstMultitabla0820.dll

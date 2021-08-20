@@ -59,7 +59,9 @@
     <NavigationProperty Name="EMPLEADO" Relationship="Model1.PUESTOEMPLEADO" FromRole="PUESTO" ToRole="EMPLEADO" />
   </EntityType>
   <Association Name="NIVEL_RIESGOPUESTO">
-    <End Type="Model1.NIVEL_RIESGO" Role="NIVEL_RIESGO" Multiplicity="1" />
+    <End Type="Model1.NIVEL_RIESGO" Role="NIVEL_RIESGO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.PUESTO" Role="PUESTO" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="NIVEL_RIESGO">
@@ -137,7 +139,9 @@
     <NavigationProperty Name="EMPLEADO" Relationship="Model1.EMPLEADOREGISTRO_TRANSACCION" FromRole="REGISTRO_TRANSACCION" ToRole="EMPLEADO" />
   </EntityType>
   <Association Name="TIPO_DE_DUCCIONREGISTRO_TRANSACCION_DEDUCCION">
-    <End Type="Model1.TIPO_DE_DUCCION" Role="TIPO_DE_DUCCION" Multiplicity="1" />
+    <End Type="Model1.TIPO_DE_DUCCION" Role="TIPO_DE_DUCCION" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.REGISTRO_TRANSACCION_DEDUCCION" Role="REGISTRO_TRANSACCION_DEDUCCION" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="TIPO_DE_DUCCION">
@@ -149,7 +153,9 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="TIPO_DE_INGRESOREGISTRO_TRANSACCION">
-    <End Type="Model1.TIPO_DE_INGRESO" Role="TIPO_DE_INGRESO" Multiplicity="1" />
+    <End Type="Model1.TIPO_DE_INGRESO" Role="TIPO_DE_INGRESO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.REGISTRO_TRANSACCION" Role="REGISTRO_TRANSACCION" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="TIPO_DE_INGRESO">
@@ -161,7 +167,9 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="DEPARTAMENTOEMPLEADO">
-    <End Type="Model1.DEPARTAMENTO" Role="DEPARTAMENTO" Multiplicity="1" />
+    <End Type="Model1.DEPARTAMENTO" Role="DEPARTAMENTO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="DEPARTAMENTO">
@@ -173,7 +181,9 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="PUESTOEMPLEADO">
-    <End Type="Model1.PUESTO" Role="PUESTO" Multiplicity="1" />
+    <End Type="Model1.PUESTO" Role="PUESTO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="PUESTO">
@@ -185,7 +195,9 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="EMPLEADOREGISTRO_TRANSACCION_DEDUCCION">
-    <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="1" />
+    <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.REGISTRO_TRANSACCION_DEDUCCION" Role="REGISTRO_TRANSACCION_DEDUCCION" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="EMPLEADO">
@@ -197,7 +209,9 @@
     </ReferentialConstraint>
   </Association>
   <Association Name="EMPLEADOREGISTRO_TRANSACCION">
-    <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="1" />
+    <End Type="Model1.EMPLEADO" Role="EMPLEADO" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Type="Model1.REGISTRO_TRANSACCION" Role="REGISTRO_TRANSACCION" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="EMPLEADO">
