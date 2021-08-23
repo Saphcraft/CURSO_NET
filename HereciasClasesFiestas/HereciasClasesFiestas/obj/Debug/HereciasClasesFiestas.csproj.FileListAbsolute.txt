@@ -1,0 +1,7 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\bin\Debug\HereciasClasesFiestas.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\bin\Debug\HereciasClasesFiestas.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\bin\Debug\HereciasClasesFiestas.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\obj\Debug\HereciasClasesFiestas.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\obj\Debug\HereciasClasesFiestas.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\obj\Debug\HereciasClasesFiestas.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\HereciasClasesFiestas\HereciasClasesFiestas\obj\Debug\HereciasClasesFiestas.csproj.AssemblyReference.cache
