@@ -10,15 +10,16 @@ namespace HereciasClasesFiestas
     {
         static void Main(string[] args)
         {
-            // crear flota
+           /* // crear flota
             string opcion = "";
             do
             {
 
                 Console.WriteLine("1:Fiesta de Gala \n 2:Fiesta de Cumpleaños \n 3:Salir");
                 opcion = Console.ReadLine();
+                Console.Clear();
 
-                switch (opcion)
+               switch (opcion)
                 {
                     case "1":
                         FlotaRebelde.CargarDeposito();
@@ -40,7 +41,7 @@ namespace HereciasClasesFiestas
             } while (opcion != "3");
 
 
-
+                */
 
             Console.ReadKey();
         }
