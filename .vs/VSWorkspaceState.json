@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\REPASOAGOSTOENTITY",
+    "\\REPASOAGOSTOENTITY\\REPASOAGOSTOENTITY"
   ],
-  "SelectedNode": "\\WindowsFormsLINQ.sln",
+  "SelectedNode": "\\REPASOAGOSTOENTITY\\REPASOAGOSTOENTITY\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

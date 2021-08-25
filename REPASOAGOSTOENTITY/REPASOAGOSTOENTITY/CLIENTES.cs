@@ -12,7 +12,7 @@ namespace REPASOAGOSTOENTITY
     using System;
     using System.Collections.Generic;
     
-    public partial class CLIENTES
+    public partial class clientes
     {
         public string dni { get; set; }
         public string nombre { get; set; }
