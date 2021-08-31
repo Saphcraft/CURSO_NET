@@ -19,7 +19,6 @@
                 <div class="controles">
                     <asp:TextBox ID="txtNombreUsuario" CssClass="ancho" runat="server"></asp:TextBox><br />
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Campo Obligatorio" ControlToValidate="txtNombreUsuario" ForeColor="Red"></asp:RequiredFieldValidator>
-
                 </div>
             </div>
             <div class="filas">
@@ -133,7 +132,6 @@
                 <div class="controles">
                     <asp:CheckBox ID="chkTerminos" runat="server" Text="Acepto los términos y condiciones" /><br />
                     <asp:Label ID="Label15" runat="server" CssClass="validacion" Text="&nbsp" ForeColor="Red"></asp:Label>
-
                 </div>
             </div>
             <div class="titulos">
