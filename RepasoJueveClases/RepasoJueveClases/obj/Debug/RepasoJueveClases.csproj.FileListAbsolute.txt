@@ -1,0 +1,6 @@
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\bin\Debug\RepasoJueveClases.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\bin\Debug\RepasoJueveClases.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\bin\Debug\RepasoJueveClases.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\obj\Debug\RepasoJueveClases.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\obj\Debug\RepasoJueveClases.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\RepasoJueveClases\RepasoJueveClases\obj\Debug\RepasoJueveClases.pdb
