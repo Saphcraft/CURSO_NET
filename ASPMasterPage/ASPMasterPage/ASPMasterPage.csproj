@@ -116,6 +116,8 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Altas.aspx" />
+    <Content Include="Bajas.aspx" />
+    <Content Include="Modificaciones.aspx" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -191,6 +193,20 @@
     </Compile>
     <Compile Include="Altas.aspx.designer.cs">
       <DependentUpon>Altas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bajas.aspx.cs">
+      <DependentUpon>Bajas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bajas.aspx.designer.cs">
+      <DependentUpon>Bajas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modificaciones.aspx.cs">
+      <DependentUpon>Modificaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modificaciones.aspx.designer.cs">
+      <DependentUpon>Modificaciones.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
