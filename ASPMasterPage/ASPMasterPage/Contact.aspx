@@ -9,7 +9,7 @@
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
-    <address>
+<address>
         <img alt="img" longdesc="img" src="file:///G:/DESARROLLO%20DE%20APLICACIONES%20CON%20TECNOLOGIAS%20WEB/MF0491_3%20Entorno%20cliente/UF1841%20Lenguajes%20de%20marcas/Ejercicio%20REPASO%201/img/image.png" style="width: 1042px; height: 473px" /></address>
 
     <address>
