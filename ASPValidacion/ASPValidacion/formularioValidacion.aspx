@@ -26,7 +26,7 @@
                     <asp:Label ID="Label2" runat="server" Text="Clave:"></asp:Label>
                 </div>
                 <div class="controles">
-                    <asp:TextBox ID="txtClave" CssClass="ancho" runat="server"></asp:TextBox><br />
+                    <asp:TextBox ID="txtClave" CssClass="ancho" runat="server" TextMode="Password"></asp:TextBox><br />
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Campo Obligatorio" ControlToValidate="txtClave" ForeColor="Red"></asp:RequiredFieldValidator>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                     <asp:Label ID="Label3" runat="server" Text="Repita la clave:"></asp:Label>
                 </div>
                 <div class="controles">
-                    <asp:TextBox ID="txtRepClave" CssClass="ancho" runat="server"></asp:TextBox><br />
+                    <asp:TextBox ID="txtRepClave" CssClass="ancho" runat="server" TextMode="Password"></asp:TextBox><br />
                     <asp:CompareValidator ID="CompareValidator1" runat="server" ErrorMessage="Las claves deben ser iguales" ControlToCompare="txtClave" ControlToValidate="txtRepClave" ForeColor="Red"></asp:CompareValidator>
                 </div>
             </div>

@@ -10,16 +10,10 @@ namespace ASPInyeccionSQL
 {
     public partial class alta : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
         protected void btnInicio_Click(object sender, EventArgs e)
         {
            Response.Redirect("default.aspx");
         }
-
         protected void btnAlta_Click(object sender, EventArgs e)
         {
             string s = System.Configuration.ConfigurationManager.ConnectionStrings["cadenaconexion1"].ConnectionString;

@@ -16,7 +16,8 @@ namespace ASPValidacion
 
         protected void btnAceptar_Click(object sender, EventArgs e)
         {
-           if( chkTerminos.Checked == false) { Label15.Text = " Debe acpetar los terminos"; }
+            if (IsValid && chkTerminos.Checked == true) { Response.Redirect("acceso.html"); }
+            else if (chkTerminos.Checked == false) { Label15.Text = " Debe acpetar los terminos"; }
         }
     }
 }

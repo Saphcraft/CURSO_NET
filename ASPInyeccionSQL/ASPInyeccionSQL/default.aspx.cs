@@ -31,7 +31,7 @@ namespace ASPInyeccionSQL
 
         protected void btnModificar_Click(object sender, EventArgs e)
         {
-            if (IsValid) Response.Redirect("modificar.aspx");
+            if (IsValid) Response.Redirect("modificacion.aspx");
         }
     }
 }

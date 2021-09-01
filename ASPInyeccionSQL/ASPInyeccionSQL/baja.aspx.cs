@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Data.SqlClient;
 
 namespace ASPInyeccionSQL
 {
@@ -12,6 +13,23 @@ namespace ASPInyeccionSQL
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+        protected void btnInicio_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("default.aspx");
+        }
+
+        protected void btnBuscar_Click(object sender, EventArgs e)
+        {
+            string s = System.Configuration.ConfigurationManager.ConnectionStrings["cadenaconexion1"].ConnectionString;
+            SqlConnection conexion = new SqlConnection(s);
+            conexion.Open();
+            SqlCommand comando = new SqlCommand("DELETE FROM usuarios WHERE nombre='" + this.txtNombreUsuario.Text+ "'", conexion);
+            int cantidad = comando.ExecuteNonQuery();
+            if (cantidad == 1) {lblConfirmacion.Text = "Se borró el usuario";}
+            else { lblConfirmacion.Text = "No existe un usuario con dicho nombre"; }
+            conexion.Close();
+            txtNombreUsuario.Text = "";
         }
     }
 }

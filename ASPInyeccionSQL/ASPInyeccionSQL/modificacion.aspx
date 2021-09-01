@@ -10,7 +10,56 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div id="container">
+                <div id="container">
+            <div class="filas">
+                <h1>MODIFICAR USUARIO</h1>
+                 <div class="titulos">
+                    <asp:Label ID="Label1" runat="server" Text="Ingrese el nombre de usuario:"></asp:Label>
+                </div>
+                <div class="controles">
+                    <asp:TextBox ID="txtNombreUsuario" CssClass="ancho" runat="server"></asp:TextBox><br />
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Campo Obligatorio" ControlToValidate="txtNombreUsuario" ForeColor="Red"></asp:RequiredFieldValidator>
+                </div>
+            </div>
+            <div class="titulos">
+                <asp:Label ID="Label4" runat="server" Text="&nbsp"></asp:Label>
+            </div>
+            <div class="controles">
+                <asp:Button ID="btnBuscar" CssClass="btnFinal" runat="server" Text="Buscar" CausesValidation="False" OnClick="btnBuscar_Click"/>
+
+            </div>
+
+            <div class="filas">
+                <div class="titulos">
+                    <asp:Label ID="Label2" runat="server" Text="Clave:"></asp:Label>
+                </div>
+                <div class="controles">
+                    <asp:TextBox ID="txtClave" CssClass="ancho" runat="server" ></asp:TextBox><br />
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Campo Obligatorio" ControlToValidate="txtClave" ForeColor="Red"></asp:RequiredFieldValidator>
+                </div>
+            </div>
+
+            <div class="filas">
+                <div class="titulos">
+                    <asp:Label ID="Label3" runat="server" Text="Email:"></asp:Label>
+                </div>
+                <div class="controles">
+                    <asp:TextBox ID="txtEmail" CssClass="ancho" runat="server"></asp:TextBox><br />              
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="Introduce un email valido" ValidationExpression="^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$"
+    Display = "Dynamic" ControlToValidate="txtEmail" ForeColor="Red"></asp:RegularExpressionValidator>
+                </div>
+            </div>
+
+            <div class="titulos">
+                    <asp:Label ID="lblConfirmacion" runat="server" Text="&nbsp"></asp:Label>
+            </div>
+            <div class="controles">
+                <asp:Button ID="btnAlta" CssClass="btnFinal modificar" runat="server" Text="Modificar" OnClick="btnAlta_Click" />
+                <asp:Button ID="btnInicio" CssClass="btnRetorno" runat="server" Text="Inicio" CausesValidation="False" OnClick="btnInicio_Click" />
+            </div>
+            <div class="filas validacion">
+                <asp:ValidationSummary ID="ValidationSummary1" runat="server" DisplayMode="List" ForeColor="Blue" />
+            </div>
         </div>
     </form>
 </body>

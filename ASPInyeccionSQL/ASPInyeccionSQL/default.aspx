@@ -14,7 +14,7 @@
             <asp:Button ID="btnAlta" CssClass="boton" runat ="server" Text="Alta de Usuario" OnClick="btnAlta_Click" />
             <asp:Button ID="btnConsulta" CssClass="boton" runat="server" Text="Consulta de Usuario" OnClick="btnConsulta_Click" />
             <asp:Button ID="btnBaja" CssClass="boton" runat="server" Text="Baja de Usuario" OnClick="btnBaja_Click" />
-            <asp:Button ID="btnModificar" CssClass="boton" runat="server" Text="Modificación de Usuario" OnClick="btnModificar_Click" />
+            <asp:Button ID="btnModificar" CssClass="boton" runat="server" Text="Modificación de Usuario" OnClick="btnModificar_Click"/>
         </div>
     </form>
 </body>

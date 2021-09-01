@@ -12,6 +12,7 @@
     <form id="form1" runat="server">
         <div id="container">
             <div class="filas">
+                <h1>ALTA DE USUARIO</h1>
                 <div class="titulos">
                     <asp:Label ID="Label1" runat="server" Text="Nombre:"></asp:Label>
                 </div>
@@ -44,7 +45,7 @@
 
             <div class="titulos">
                     <asp:Label ID="lblConfirmacion" runat="server" Text="&nbsp"></asp:Label>
-                </div>
+            </div>
             <div class="controles">
                 <asp:Button ID="btnAlta" CssClass="btnFinal" runat="server" Text="Alta" OnClick="btnAlta_Click"/>
                 <asp:Button ID="btnInicio" CssClass="btnRetorno" runat="server" Text="Inicio" CausesValidation="False" OnClick="btnInicio_Click"/>

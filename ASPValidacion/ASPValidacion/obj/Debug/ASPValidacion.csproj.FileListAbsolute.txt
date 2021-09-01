@@ -52,7 +52,6 @@ C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\bin\
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.csproj.AssemblyReference.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.csproj.CoreCompileInputs.cache
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.csproj.CopyComplete
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.dll
