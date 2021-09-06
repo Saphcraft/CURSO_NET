@@ -56,3 +56,4 @@ C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.csproj.CopyComplete
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.dll
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPValidacion\ASPValidacion\obj\Debug\ASPValidacion.csproj.AssemblyReference.cache

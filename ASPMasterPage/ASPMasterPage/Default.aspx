@@ -10,7 +10,7 @@
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Para saber más &raquo;</a></p>
     </div>
 
-    <div class="row">
+    <div class="row mt-2">
         <div class="col-md-4">
             <h2>Panel de Comerciales</h2>
             <p>

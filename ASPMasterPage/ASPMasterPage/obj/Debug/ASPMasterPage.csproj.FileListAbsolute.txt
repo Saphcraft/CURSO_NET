@@ -73,4 +73,3 @@ C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPMasterPage\ASPMasterPage\obj\
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPMasterPage\ASPMasterPage\obj\Debug\ASPMasterPage.csproj.CopyComplete
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPMasterPage\ASPMasterPage\obj\Debug\ASPMasterPage.dll
 C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPMasterPage\ASPMasterPage\obj\Debug\ASPMasterPage.pdb
-C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\ASPMasterPage\ASPMasterPage\obj\Debug\ASPMasterPage.csproj.AssemblyReference.cache

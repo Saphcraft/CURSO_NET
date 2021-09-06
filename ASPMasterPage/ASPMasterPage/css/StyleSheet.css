@@ -1,0 +1,50 @@
+﻿body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.filas {
+    width:100%;
+    box-sizing:border-box;
+    padding: 1em;
+    clear:both;
+}
+div.titulos {
+    box-sizing: border-box;
+    width: 35%;
+    float: left;
+    margin-right: 1em;
+}
+.titulo {
+    box-sizing: border-box;
+    width: 1%;
+    float: left;
+    margin-right: 1em;
+}
+div.controles {
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+}
+.ancho {
+    width: 15em;
+}
+.boton {
+    margin: 1em 0;
+    height: 2em;
+    background-color: cornflowerblue;
+    border-radius: 1em;
+    text-align: center;
+    width: 4em;
+    font-size: 1em;
+}
+.validacion {
+    text-align: center;
+}
+.flotado {
+    float:left;
+    margin-right: 1em;
+    width: 30%;
+    height: 2em;
+}
+.btnFinal .flotado {
+    width: 6em;
+}

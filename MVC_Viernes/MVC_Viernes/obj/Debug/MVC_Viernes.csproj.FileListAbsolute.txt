@@ -1,0 +1,257 @@
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll.config
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.pdb
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe.config
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.rsp
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe.config
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.rsp
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Console.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.rsp
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\WebGrease.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Razor.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CopyComplete
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.dll
+C:\Users\AsataTarde\Desktop\CURSONET\alei87\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.pdb
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll.config
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.pdb
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe.config
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.rsp
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe.config
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.rsp
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.AppContext.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Collections.Immutable.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Console.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Http.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Sockets.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.ValueTuple.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe.config
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.rsp
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe.config
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Microsoft.Web.Infrastructure.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\WebGrease.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.pdb
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Helpers.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Mvc.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Optimization.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Razor.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CoreCompileInputs.cache
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CopyComplete
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.dll
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.pdb
+G:\DESARROLLO DE APLICACIONES CON TECNOLOGIAS WEB\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.AssemblyReference.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\MVC_Viernes.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csc.rsp
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\csi.rsp
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.AppContext.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Console.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Http.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\vbc.rsp
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\WebGrease.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Helpers.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Mvc.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Optimization.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.Razor.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Newtonsoft.Json.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Antlr3.Runtime.pdb
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.Razor.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.AssemblyReference.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.csproj.CopyComplete
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.dll
+C:\Users\Tarde\source\repos\Saphcraft\CURSO_NET\MVC_Viernes\MVC_Viernes\obj\Debug\MVC_Viernes.pdb

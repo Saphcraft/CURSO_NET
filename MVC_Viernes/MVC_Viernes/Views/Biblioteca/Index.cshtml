@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVC_Viernes.Models.Libro>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Isbn</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>@item.Titulo</td>
+        <td>
+
+
+        <td>@item.Titulo
+            @Html.ActionLink("Edit", "Edit", new {  id=item.ISBN  }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ISBN }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ISBN })
+        </td>
+    </tr>
+}
+
+</table>
